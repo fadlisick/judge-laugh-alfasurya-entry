@@ -8,7 +8,7 @@ newline, so the grader reads the joke exactly as written.
 import os
 from pathlib import Path
 
-JOKE = "The best part of working from home is muting myself to sigh in surround sound."
+JOKE = "The quickest way to make a problem someone else's responsibility is to forward the thread with \"Thoughts?\""
 
 
 def main() -> None:
